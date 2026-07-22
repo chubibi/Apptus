@@ -17,7 +17,7 @@
     <tr>
       <td align="center" width="33%">
         <b>01. Animated Splash & Onboarding</b><br><br>
-        <img src="assets/screenshots/splash.png" width="240" alt="Splash & Onboarding" /><br><br>
+        <img src="/assets/screenshoots/splash.png" width="240" alt="Splash & Onboarding" /><br><br>
         <sub>Custom Reanimated 3 entrance with 3-step paging flow & dot indicators.</sub>
       </td>
       <td align="center" width="33%">
