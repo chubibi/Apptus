@@ -17,24 +17,24 @@
     <tr>
       <td align="center" width="33%">
         <b>01. Animated Splash & Onboarding</b><br><br>
-        <img src="assets/screenshots/splash.png" width="240" alt="Splash & Onboarding" /><br><br>
+        <img src="/assets/screenshoots/splash.png" width="240" alt="Splash & Onboarding" /><br><br>
         <sub>Custom Reanimated 3 entrance with 3-step paging flow & dot indicators.</sub>
       </td>
       <td align="center" width="33%">
         <b>02. Sequential Permissions</b><br><br>
-        <img src="assets/screenshots/welcome.png" width="240" alt="Permissions Flow" /><br><br>
+        <img src="/assets/screenshoots/permission.png" width="240" alt="Permissions Flow" /><br><br>
         <sub>Asynchronous permission request engine for Location, Camera, and Push Notifications.</sub>
       </td>
       <td align="center" width="33%">
         <b>03. Mock Interactive OTP</b><br><br>
-        <img src="assets/screenshots/otp.png" width="240" alt="OTP Screen" /><br><br>
+        <img src="/assets/screenshoots/otp.png" width="240" alt="OTP Screen" /><br><br>
         <sub>Auto-focus sequence, dynamic code generation, and Reanimated shake mechanics.</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
         <b>04. Developer Profile & Home</b><br><br>
-        <img src="assets/screenshots/home.png" width="240" alt="Home Screen" /><br><br>
+        <img src="/assets/screenshoots/welcome.png" width="240" alt="Home Screen" /><br><br>
         <sub>Personalized greeting leveraging AsyncStorage persistence and quick social actions.</sub>
       </td>
       <td align="center" width="33%">
